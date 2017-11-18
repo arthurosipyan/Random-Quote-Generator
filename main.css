@@ -1,0 +1,29 @@
+body {
+  padding: 50px 30px 30px 30px;
+  background: url(http://www.textures4photoshop.com/tex/thumbs/galaxy-space-background-free-thumb28.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+.text-c {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  background-color: black;
+}
+
+.quoteBox {
+  font-size: 22px;
+  text-align: center;
+}
+
+.bttnBox {
+  text-align: center;
+  font-size: 40px;
+}
+
+p2 {
+  text-align: center;
+  font-size: 26px;
+  color: white;
+  font-weight: bold;
+}
